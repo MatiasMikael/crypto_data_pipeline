@@ -1,0 +1,3 @@
+2025-01-29 11:25:52,326 - INFO - Using service account key: C:/Users/Matias/Desktop/crypto_data_pipeline/credentials/crypto-data-pipeline-449309-25cdb2db0cbd.json
+2025-01-29 11:25:52,841 - INFO - BigQuery connection successful. Available datasets:
+2025-01-29 11:25:52,851 - INFO - - crypto_dataset
